@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything idk
 - 📫 How to reach me: iyash0506@gmail.com (email)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I have short attention span but willing to learn
+
 
 <!---
 iyasze/iyasze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
