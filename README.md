@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iyasze
-- 👀 I’m interested in Computer Science /  Data Science (coding in general❤️)
-- 🌱 I’m currently learning C++ and Python (soon to learn JAVA)
-- 💞️ I’m looking to collaborate on anything idk
+- 👀 I’m interested in Software Engineering (coding in general❤️)
+- 🌱 JAVA & Python
+- 💞️ I’m looking to collaborate on anything 
 - 📫 How to reach me: iyash0506@gmail.com (email)
 - 😄 Pronouns: he/him
 
