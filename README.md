@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iyasze
 - 👀 I’m interested in Software Engineering (coding in general❤️)
 - 🌱 JAVA & Python
-- 💞️ I’m looking to collaborate on anything 
+- 🤝 I’m open to any work 
 - 📫 How to reach me: iyash0506@gmail.com (email)
 - 😄 Pronouns: he/him
 
